@@ -72,7 +72,6 @@ class Game:
                 continue
 
             self.letters.append(letter)
-            print(self.letters)
             
             print("Your choice: " + letter)
 
